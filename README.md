@@ -1,15 +1,15 @@
 # Pinnacle Care Hospital Website with Healthbot
 
-Welcome to Pinnacle Care Hospital's website repository! This website is designed to provide visitors with valuable information about our hospital and to offer assistance through our healthbot.
+Welcome to BCA LIFE Hospital's website repository! This website is designed to provide visitors with valuable information about our hospital and to offer assistance through our healthbot.
 
 ## Overview
 
-Pinnacle Care is committed to delivering high-quality healthcare services to our community. This website serves as a platform for patients, visitors, and healthcare professionals to access important information about our hospital, including services offered, medical staff, and contact details.
+BCA LIFE is committed to delivering high-quality healthcare services to our community. This website serves as a platform for patients, visitors, and healthcare professionals to access important information about our hospital, including services offered, medical staff, and contact details.
 
 ## Features
 
 - **About Us**: Provides an overview of our hospital's mission, history, and values.
-- **How It Works**: Details the medical services and specialties offered at Pinnacle Care.
+- **Services**: Details the medical services and specialties offered at Pinnacle Care.
 - **Doctors**: Profiles of our experienced medical professionals, including doctors, nurses, and specialists.
 - **Contact Us**: Contact information for Pinnacle Care Hospital, including address, phone number, and email.
 - **Healthbot**: Interactive chatbot feature to assist visitors with general health inquiries, appointment scheduling, and more.
@@ -31,18 +31,23 @@ Pinnacle Care is committed to delivering high-quality healthcare services to our
 
 ![About_Us_Page] <img width="1440" alt="homepage" src="https://github.com/chakrapani-allumallu1/chatbot/assets/172880256/7a92aff6-56fa-4c85-b8e6-b725c1dcd189">
 
-###How It Works -
+###Services -
 
-![Screenshot 2024-03-19 180221](https://github.com/Muppidi-Aditya/Pinnacle-Care---FRT-Project/assets/112880727/add330d0-5693-4b68-a581-7e70724bb364)
+![Screenshot 2024-03-19 180221]<img width="1436" alt="main services" src="https://github.com/chakrapani-allumallu1/chatbot/assets/172880256/151cdcd5-200e-46af-86ec-877b6d8b7bdf">
+
 
 ###Doctors - 
 
-![Screenshot 2024-03-19 180226](https://github.com/Muppidi-Aditya/Pinnacle-Care---FRT-Project/assets/112880727/b590b52c-9151-4d4b-aa26-6e15bcd5cc7e)
+![Screenshot 2024-03-19 180226]<img width="1434" alt="doctors" src="https://github.com/chakrapani-allumallu1/chatbot/assets/172880256/6c09d668-bb37-4639-9793-8e68f485754c">
+
 
 ###Contact Us -
 
-![Screenshot 2024-03-19 180237](https://github.com/Muppidi-Aditya/Pinnacle-Care---FRT-Project/assets/112880727/261765af-5f05-4fbf-a9cb-2323e976c626)
+![Screenshot 2024-03-19 180237]<img width="1430" alt="contact us" src="https://github.com/chakrapani-allumallu1/chatbot/assets/172880256/3e169605-c2fc-4c46-ba48-52014add1722">
+
 
 ###Health Bot - 
 
-![Screenshot 2024-03-19 180303](https://github.com/Muppidi-Aditya/Pinnacle-Care---FRT-Project/assets/112880727/98841a14-7bef-45b4-bfca-041b1dc30d86)
+![Screenshot 2024-03-19 180303]<img width="1430" alt="health bot" src="https://github.com/chakrapani-allumallu1/chatbot/assets/172880256/a79d03a4-bec8-4dad-8647-3c7347790c57">
+
+
