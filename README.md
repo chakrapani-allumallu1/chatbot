@@ -20,7 +20,7 @@ BCA healthcare is committed to delivering high-quality healthcare services to ou
 - Bootstrap
 - JavaScript
 
-**Project Link** - https://ambitious-tree-0cb2b7b00.5.azurestaticapps.net/
+**Project Link** - (https://chakrapani-allumallu1.github.io/chatbot/)
 
 ## Project Demo
 
