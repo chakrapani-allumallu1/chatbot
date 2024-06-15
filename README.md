@@ -1,15 +1,15 @@
-# Pinnacle Care Hospital Website with Healthbot
+# BCA Healthcare Hospital Website with Healthbot
 
-Welcome to BCA LIFE Hospital's website repository! This website is designed to provide visitors with valuable information about our hospital and to offer assistance through our healthbot.
+Welcome to BCA healthcare Hospital's website repository! This website is designed to provide visitors with valuable information about our hospital and to offer assistance through our healthbot.
 
 ## Overview
 
-BCA LIFE is committed to delivering high-quality healthcare services to our community. This website serves as a platform for patients, visitors, and healthcare professionals to access important information about our hospital, including services offered, medical staff, and contact details.
+BCA healthcare is committed to delivering high-quality healthcare services to our community. This website serves as a platform for patients, visitors, and healthcare professionals to access important information about our hospital, including services offered, medical staff, and contact details.
 
 ## Features
 
 - **About Us**: Provides an overview of our hospital's mission, history, and values.
-- **Services**: Details the medical services and specialties offered at Pinnacle Care.
+- **Services**: Details the medical services and specialties offered at BCA healthcare.
 - **Doctors**: Profiles of our experienced medical professionals, including doctors, nurses, and specialists.
 - **Contact Us**: Contact information for Pinnacle Care Hospital, including address, phone number, and email.
 - **Healthbot**: Interactive chatbot feature to assist visitors with general health inquiries, appointment scheduling, and more.
